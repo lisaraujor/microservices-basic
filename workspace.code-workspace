@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "eureka-service",
+			"path": "eureka-service"
+		},
+		{
+			"name": "initial-service",
+			"path": "initial-service"
+		},
+		{
+			"name": "gateway-service",
+			"path": "gateway-service"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
